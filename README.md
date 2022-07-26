@@ -1,2 +1,2 @@
-# Panda-TV-T-cnico-em-Inform-tica
+# Panda-TV
 Um site de vídeos upados pelos usuários.
